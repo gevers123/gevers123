@@ -2,7 +2,9 @@
 - 👀 I’m interested in software developement, cyber security, and networking.
 - 🌱 I’m currently learning ethical hacking, networking, algorithms and data structures, methods of random processes, and ethics in computing.
 - 📫 How to reach me:
+	
 	gillian.e2019@gmail.com
+	
 	https://www.linkedin.com/in/gillian-evers/
 
 <!---
