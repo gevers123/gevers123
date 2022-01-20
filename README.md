@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gillian!
 - 👀 I’m interested in software developement, cyber security, and networking.
-- 🌱 I’m currently learning ethical hacking, networking, algorithms and data structures, methods of random processes, and ethics in computing.
+- 🌱 I’m currently learning web developement with HTML, CSS, and JavaScript.
 - 📫 How to reach me:
 	
 	gillian.e2019@gmail.com
