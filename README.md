@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gillian!
 - 👀 I’m interested in software developement, cyber security, and networking.
-- 🌱 I’m currently learning web developement with HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning about zero knowledge proofs, software engineering, mobile development, Automata Theory, and web development.
 - 📫 How to reach me:
 	
 	gillian.e2019@gmail.com
