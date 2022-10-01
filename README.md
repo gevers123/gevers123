@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gillian!
-- 👀 I’m interested in cyber security, networking, software developement, and finite automata.
-- 🌱 I’m currently learning about zero knowledge proofs, software engineering, mobile development, and finite automata.
+- 👀 I’m interested in cyber security, networking, and software developement.
+- 🌱 I’m currently learning about zero knowledge proofs, network security, compilers, databases, and drones.
 - 📫 How to reach me:
 	
 	gillian.e2019@gmail.com
