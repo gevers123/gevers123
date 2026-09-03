@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gillian!
 - 👀 I’m interested in cybersecurity, networking, software developement, and using AI in these fields.
-- 🌱 I’m currently preparing for the ISC2 Certified in Cybersecurity (CC) exam and taking an AI Cyber Defense Course with Just Hacking.
+- 🌱 I’m currently taking a Script-Based Malware Analysis course with Just Hacking Training.
 - 📫 How to reach me:
 	
 	gillian.e2019@gmail.com
